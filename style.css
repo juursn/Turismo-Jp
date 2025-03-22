@@ -1,0 +1,10 @@
+body{.josefin-sans-<uniquifier> {
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;}
+}
+h2 {
+    color: rgb(89, 125, 68);
+    font-size: 25px;
+}
